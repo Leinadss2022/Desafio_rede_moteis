@@ -151,5 +151,5 @@ npx cypress open
         Instale o k6 e execute o script com:
 
         k6 run path/to/loadtest.js
-
-Esse modelo é bem completo e cobre todos os aspectos do desafio.
+        
+Esses testes cobrem todos os aspectos do desafio.
